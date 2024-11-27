@@ -1,0 +1,9 @@
+{
+	"name": "ajeet-learning-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffa7db46-f9e1-40c9-a7fe-30ec946c68c9",
+		"tenantId": "86eb7de7-83f6-40c6-a2de-7fdcaea7b1d1"
+	}
+}
